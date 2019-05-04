@@ -1,8 +1,8 @@
 # Andrija's Simple Portfolio
-This is the build repo.
+This is the build repo for my personal web page.
 
 ## Description 👍
-This is my web page. It's hosted on GitHub Pages.
+It's hosted on GitHub Pages.
 
 Development repository: [my-portfolio](https://github.com/AndrijaS37N/my-portfolio)
 
