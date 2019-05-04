@@ -1,5 +1,6 @@
 # Andrija's Simple Portfolio
 This is the build repo.
+![stable](https://img.shields.io/maven-central/v/ru.noties.markwon/core.svg?label=stable)
 ## Description 👍
 This is my web page. It's hosted on GitHub Pages.
 
@@ -10,4 +11,5 @@ In order not to delete the dist folder in my project and the .git folder in it, 
 ```
 npm run build --no-delete-output-path
 ```
-Update: May not work as intended it seems. Will post fixes at a later date.
+<strike>Update: May not work as intended it seems. Will post fixes at a later date.</strike>
+I've seperated the repos locally, when pushing the build, I copy the dist folder to this repo.
