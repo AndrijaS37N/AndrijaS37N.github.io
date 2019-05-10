@@ -1,5 +1,5 @@
 # Andrija's Simple Portfolio
-This is the build repo for my personal web page.
+This is the build repo for my personal website.
 
 ## Description 👍
 It's hosted on GitHub Pages.
